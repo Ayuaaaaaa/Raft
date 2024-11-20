@@ -1,0 +1,3 @@
+/media/sf_raft/raft-java-core/src/test/java/com/github/raftimpl/raft/util/RaftUtilsTest.java
+/media/sf_raft/raft-java-core/src/test/java/com/github/raftimpl/raft/storage/SnapshotTest.java
+/media/sf_raft/raft-java-core/src/test/java/com/github/raftimpl/raft/storage/SegmentedLogTest.java

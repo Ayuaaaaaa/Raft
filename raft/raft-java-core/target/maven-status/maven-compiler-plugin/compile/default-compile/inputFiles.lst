@@ -1,0 +1,16 @@
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/StateMachine.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/Segment.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/util/ConfigurationUtils.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/impl/RaftConsensusServiceImpl.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/SegmentedLog.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/Snapshot.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/util/RaftFileUtils.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/RaftOptions.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/impl/RaftClientServiceImpl.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/proto/RaftProto.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftConsensusServiceAsync.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/RaftNode.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftConsensusService.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftClientService.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/Peer.java
+/media/sf_raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftClientServiceAsync.java
